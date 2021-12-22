@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="1200"
+   viewBox="0 0 317.5 317.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="nawal_KAWOQ.svg"
+   inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAT.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="556.49304"
+     inkscape:cy="730.44131"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="false"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="158.75,317.5"
+       orientation="-1,0"
+       id="guide846"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,158.75"
+       orientation="0,1"
+       id="guide928"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="131.7122,44.457535"
+       orientation="1,0"
+       id="guide1822"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="60.067386,45.405413"
+       orientation="1,0"
+       id="guide1872"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="256.80652,71.495331"
+       orientation="1,0"
+       id="guide1874"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="159.37012,16.031474"
+       orientation="0,-1"
+       id="guide2734"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient39964">
+      <stop
+         style="stop-color:#00a6ed;stop-opacity:1"
+         offset="0"
+         id="stop39960" />
+      <stop
+         style="stop-color:#0d2c54;stop-opacity:1"
+         offset="1"
+         id="stop39962" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15527">
+      <stop
+         style="stop-color:#7fb800;stop-opacity:1"
+         offset="0"
+         id="stop15523" />
+      <stop
+         style="stop-color:#ffb400;stop-opacity:1"
+         offset="1"
+         id="stop15525" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14332">
+      <stop
+         style="stop-color:#ffb400;stop-opacity:1"
+         offset="0"
+         id="stop14328" />
+      <stop
+         style="stop-color:#f6511d;stop-opacity:1"
+         offset="1"
+         id="stop14330" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10006">
+      <stop
+         style="stop-color:#7fb800;stop-opacity:1"
+         offset="0"
+         id="stop10002" />
+      <stop
+         style="stop-color:#00a6ed;stop-opacity:1"
+         offset="1"
+         id="stop10004" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15527"
+       id="linearGradient10704"
+       x1="60.067387"
+       y1="272.09457"
+       x2="158.75"
+       y2="247.06468"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15527"
+       id="linearGradient12824"
+       x1="262.56299"
+       y1="278.38052"
+       x2="158.75"
+       y2="247.06468"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15527"
+       id="linearGradient13198"
+       x1="158.75"
+       y1="301.46854"
+       x2="158.75"
+       y2="247.06468"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14332"
+       id="radialGradient13686"
+       cx="158.75002"
+       cy="247.0647"
+       fx="158.75002"
+       fy="247.0647"
+       r="18.94975"
+       gradientTransform="matrix(-5.6634511e-7,2.0236923,-0.65354428,0,320.21783,-74.196461)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14332"
+       id="radialGradient998"
+       cx="159.83458"
+       cy="159.65601"
+       fx="159.83458"
+       fy="159.65601"
+       r="92.790291"
+       gradientTransform="matrix(0.76964131,0.00301601,-0.00260931,0.6658564,37.211309,52.665874)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39964"
+       id="radialGradient53364"
+       cx="230.01514"
+       cy="137.83296"
+       fx="230.01514"
+       fy="137.83296"
+       r="9.5533257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.3683273,-2.281248)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39964"
+       id="radialGradient53366"
+       cx="197.22801"
+       cy="135.7323"
+       fx="197.22801"
+       fy="135.7323"
+       r="9.5533257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.9141219)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39964"
+       id="radialGradient53368"
+       cx="163.74332"
+       cy="150.23814"
+       fx="163.74332"
+       fy="150.23814"
+       r="9.5533257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(12.248687,5.5794398)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39964"
+       id="radialGradient53370"
+       cx="146.69832"
+       cy="178.98889"
+       fx="146.69832"
+       fy="178.98889"
+       r="9.5533257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(17.090591,6.6389843)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39964"
+       id="radialGradient53372"
+       cx="151.25723"
+       cy="214.14653"
+       fx="151.25723"
+       fy="214.14653"
+       r="9.5533257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.614231,1.1463448)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10006"
+       id="linearGradient900"
+       gradientUnits="userSpaceOnUse"
+       x1="158.08037"
+       y1="317.5"
+       x2="159.09019"
+       y2="68.849487" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39964"
+       id="radialGradient1805"
+       cx="813.52246"
+       cy="711.1015"
+       fx="813.52246"
+       fy="711.1015"
+       r="136.30957"
+       gradientTransform="matrix(1,0,0,1.1401979,0,-99.694914)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient12824);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.15622,230.81284 c 3.42007,40.51082 2.84618,68.03694 38.02476,67.83922 35.17858,-0.19772 43.786,-23.99002 28.51412,-43.63854 -15.27187,-19.64851 -29.08542,-17.41155 -42.12428,-9.88356 -8.5839,4.95591 -8.4625,13.72303 -5.56066,23.20057 2.49996,8.16496 10.72541,10.38306 19.03703,8.42515 6.63441,-1.56282 6.6848,-14.04643 6.6848,-14.04643"
+       id="path9911"
+       sodipodi:nodetypes="czzsssc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:url(#linearGradient13198);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2080"
+       width="54.444019"
+       height="85.510971"
+       x="131.7122"
+       y="213.31172"
+       ry="42.755486"
+       sodipodi:type="rect"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       d="m 158.93421,213.31172 c 15.081,0 27.22201,19.06895 27.22201,42.75549 0,23.68654 -12.14101,42.75548 -27.22201,42.75548 -15.08099,0 -27.22201,-19.06894 -27.22201,-42.75548 0,-23.68654 12.14102,-42.75549 27.22201,-42.75549 z" />
+    <path
+       style="fill:url(#radialGradient13686);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2261"
+       width="32.60783"
+       height="79.760696"
+       x="142.44609"
+       y="207.18434"
+       ry="39.880348"
+       sodipodi:type="rect"
+       d="m 158.75001,207.18434 c 9.03236,0 16.30391,17.78664 16.30391,39.88035 0,22.09371 -7.27155,39.88035 -16.30391,39.88035 -9.03237,0 -16.30392,-17.78664 -16.30392,-39.88035 0,-22.09371 7.27155,-39.88035 16.30392,-39.88035 z"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:url(#linearGradient10704);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 131.7122,231.03034 c -3.42007,40.51082 -2.84618,68.03694 -38.024758,67.83922 -35.178581,-0.19772 -43.785995,-23.99002 -28.51412,-43.63854 15.271876,-19.64851 29.085419,-17.41155 42.124278,-9.88356 8.5839,4.95591 8.4625,13.72303 5.56066,23.20057 -2.49996,8.16496 -10.72541,10.38306 -19.037032,8.42515 -6.634404,-1.56282 -6.684792,-14.04643 -6.684792,-14.04643"
+       id="path4161"
+       sodipodi:nodetypes="czzsssc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="fill:url(#linearGradient900);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect898"
+       width="216.37572"
+       height="174.50935"
+       x="50.562145"
+       y="71.495323"
+       ry="66.009232"
+       rx="92.476379"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="fill:url(#radialGradient998);fill-opacity:1;stroke:#000000;stroke-width:4.4302;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2654"
+       width="181.15038"
+       height="146.09973"
+       x="68.17482"
+       y="85.700134"
+       ry="55.263119"
+       rx="77.421494"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="21.242741"
+       ry="14.264508" />
+    <rect
+       style="fill:#ffb400;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171-7"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="56.422012"
+       ry="14.264508" />
+    <rect
+       style="fill:#00a6ed;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171-3"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="91.601288"
+       ry="14.264508" />
+    <rect
+       style="fill:#7fb800;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171-6"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="126.78056"
+       ry="14.264508" />
+    <rect
+       style="fill:#0d2c54;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171-5"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="161.95984"
+       ry="14.264508" />
+    <ellipse
+       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path50463"
+       cx="97.88031"
+       cy="107.50212"
+       rx="9.0470572"
+       ry="9.5885115"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <ellipse
+       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path50569"
+       cx="108.34432"
+       cy="120.57018"
+       rx="8.2509022"
+       ry="8.5610428"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <ellipse
+       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path50571"
+       cx="127.76221"
+       cy="98.68898"
+       rx="8.6999197"
+       ry="9.3803091"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <ellipse
+       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path50573"
+       cx="123.75978"
+       cy="113.82984"
+       rx="9.0599718"
+       ry="8.3749809"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <ellipse
+       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path50575"
+       cx="119.6313"
+       cy="129.54573"
+       rx="8.0708475"
+       ry="8.4179277"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <ellipse
+       style="fill:#ffb400;fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path50577"
+       cx="112.19707"
+       cy="100.84102"
+       rx="9.4284058"
+       ry="10.001593"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       style="fill:url(#radialGradient53372);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path53232"
+       cx="167.87146"
+       cy="215.29288"
+       r="7.5689502"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       style="fill:url(#radialGradient53370);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle53314"
+       cx="163.78891"
+       cy="185.62788"
+       r="7.5689502"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       style="fill:url(#radialGradient53368);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle53316"
+       cx="175.992"
+       cy="155.8176"
+       r="7.5689502"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       style="fill:url(#radialGradient53366);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle53318"
+       cx="202.14214"
+       cy="135.7323"
+       r="7.5689502"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <circle
+       style="fill:url(#radialGradient53364);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle53320"
+       cx="231.38347"
+       cy="135.55171"
+       r="7.5689502"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       id="path1678"
+       style="fill:url(#radialGradient1805);stroke:#000000;stroke-width:15;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1.0"
+       d="M 841.54883 563.18164 A 156.83518 156.83518 0 0 0 684.71289 720.01758 A 156.83518 156.83518 0 0 0 768.02148 858.42578 C 870.86492 826.10836 942.33203 752.84746 942.33203 667.22461 L 942.33203 599.85742 A 156.83518 156.83518 0 0 0 841.54883 563.18164 z "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       id="path1901"
+       style="fill:#7fb800;fill-opacity:1;stroke:#000000;stroke-width:7.9375;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 228.79016,151.85378 c -21.41335,6e-5 -38.77228,17.30809 -38.77231,38.65862 0.009,14.12391 6.79661,23.3604 19.22567,30.13596 22.57153,-9.7593 37.40753,-26.40335 37.43316,-44.41604 l 0.0271,-19.02127 c -6.03908,-3.62731 -10.86337,-5.35709 -17.91358,-5.35727 z"
+       sodipodi:nodetypes="cccscc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 192.79803,203.46073 32.95236,-52.18086"
+       id="path12067"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 206.49897,212.22185 32.95236,-52.18086"
+       id="path12771"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 192.87108,178.30923 23.03672,37.12164"
+       id="path12791"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 204.43967,164.30328 27.3049,41.34327"
+       id="path13179"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 215.66178,154.10937 27.3049,41.34327"
+       id="path13356"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAWOQ.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+  </g>
+</svg>

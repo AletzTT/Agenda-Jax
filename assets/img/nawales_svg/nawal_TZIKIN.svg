@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="1200"
+   viewBox="0 0 317.5 317.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="nawal_TZIKIN.svg"
+   inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAT.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="0.5"
+     inkscape:cx="801"
+     inkscape:cy="663"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="false"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="158.75,317.5"
+       orientation="-1,0"
+       id="guide846"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,158.75"
+       orientation="0,1"
+       id="guide928"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="131.7122,44.457535"
+       orientation="1,0"
+       id="guide1822"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="60.067386,45.405413"
+       orientation="1,0"
+       id="guide1872"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="256.80652,71.495331"
+       orientation="1,0"
+       id="guide1874"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="159.37012,16.031474"
+       orientation="0,-1"
+       id="guide2734"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient90964">
+      <stop
+         style="stop-color:#ffb400;stop-opacity:1"
+         offset="0"
+         id="stop90960" />
+      <stop
+         style="stop-color:#f6511d;stop-opacity:1"
+         offset="1"
+         id="stop90962" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14332">
+      <stop
+         style="stop-color:#f6511d;stop-opacity:1"
+         offset="0"
+         id="stop76216" />
+      <stop
+         style="stop-color:#ffb400;stop-opacity:1"
+         offset="1"
+         id="stop76218" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient44946">
+      <stop
+         style="stop-color:#00a6ed;stop-opacity:1"
+         offset="0"
+         id="stop44942" />
+      <stop
+         style="stop-color:#0d2c54;stop-opacity:1"
+         offset="1"
+         id="stop44944" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15527">
+      <stop
+         style="stop-color:#7fb800;stop-opacity:1"
+         offset="0"
+         id="stop15523" />
+      <stop
+         style="stop-color:#ffb400;stop-opacity:1"
+         offset="1"
+         id="stop15525" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14332-6">
+      <stop
+         style="stop-color:#ffb400;stop-opacity:1"
+         offset="0"
+         id="stop14328" />
+      <stop
+         style="stop-color:#f6511d;stop-opacity:1"
+         offset="1"
+         id="stop14330" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10006">
+      <stop
+         style="stop-color:#7fb800;stop-opacity:1"
+         offset="0"
+         id="stop10002" />
+      <stop
+         style="stop-color:#00a6ed;stop-opacity:1"
+         offset="1"
+         id="stop10004" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15527"
+       id="linearGradient10704"
+       x1="60.067387"
+       y1="272.09457"
+       x2="158.75"
+       y2="247.06468"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15527"
+       id="linearGradient12824"
+       x1="262.56299"
+       y1="278.38052"
+       x2="158.75"
+       y2="247.06468"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15527"
+       id="linearGradient13198"
+       x1="158.75"
+       y1="301.46854"
+       x2="158.75"
+       y2="247.06468"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14332-6"
+       id="radialGradient13686"
+       cx="158.75002"
+       cy="247.0647"
+       fx="158.75002"
+       fy="247.0647"
+       r="18.94975"
+       gradientTransform="matrix(-5.6634511e-7,2.0236923,-0.65354428,0,320.21783,-74.196461)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10006"
+       id="linearGradient900"
+       gradientUnits="userSpaceOnUse"
+       x1="158.08037"
+       y1="317.5"
+       x2="159.09019"
+       y2="68.849487" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient44946"
+       id="radialGradient44948"
+       cx="840.07031"
+       cy="607.24512"
+       fx="840.07031"
+       fy="607.24512"
+       r="109.76172"
+       gradientTransform="matrix(0.20303393,0,0,0.23984108,57.837048,10.867796)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14332"
+       id="radialGradient76214"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.81112978,0,29.983147)"
+       cx="94.71386"
+       cy="160.43726"
+       fx="94.71386"
+       fy="160.43726"
+       r="92.790291" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14332"
+       id="linearGradient80637"
+       x1="893.79852"
+       y1="403.69836"
+       x2="298.85272"
+       y2="403.69836"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14332"
+       id="linearGradient85531"
+       x1="884.49902"
+       y1="790.52563"
+       x2="216.5273"
+       y2="790.52563"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient90964"
+       id="radialGradient88602"
+       cx="594.44208"
+       cy="374.52832"
+       fx="594.44208"
+       fy="374.52832"
+       r="170.47997"
+       gradientTransform="matrix(1,0,0,0.33933385,0,247.43818)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient12824);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.15622,230.81284 c 3.42007,40.51082 2.84618,68.03694 38.02476,67.83922 35.17858,-0.19772 43.786,-23.99002 28.51412,-43.63854 -15.27187,-19.64851 -29.08542,-17.41155 -42.12428,-9.88356 -8.5839,4.95591 -8.4625,13.72303 -5.56066,23.20057 2.49996,8.16496 10.72541,10.38306 19.03703,8.42515 6.63441,-1.56282 6.6848,-14.04643 6.6848,-14.04643"
+       id="path9911"
+       sodipodi:nodetypes="czzsssc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:url(#linearGradient13198);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2080"
+       width="54.444019"
+       height="85.510971"
+       x="131.7122"
+       y="213.31172"
+       ry="42.755486"
+       sodipodi:type="rect"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       d="m 158.93421,213.31172 c 15.081,0 27.22201,19.06895 27.22201,42.75549 0,23.68654 -12.14101,42.75548 -27.22201,42.75548 -15.08099,0 -27.22201,-19.06894 -27.22201,-42.75548 0,-23.68654 12.14102,-42.75549 27.22201,-42.75549 z" />
+    <path
+       style="fill:url(#radialGradient13686);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2261"
+       width="32.60783"
+       height="79.760696"
+       x="142.44609"
+       y="207.18434"
+       ry="39.880348"
+       sodipodi:type="rect"
+       d="m 158.75001,207.18434 c 9.03236,0 16.30391,17.78664 16.30391,39.88035 0,22.09371 -7.27155,39.88035 -16.30391,39.88035 -9.03237,0 -16.30392,-17.78664 -16.30392,-39.88035 0,-22.09371 7.27155,-39.88035 16.30392,-39.88035 z"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:url(#linearGradient10704);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 131.7122,231.03034 c -3.42007,40.51082 -2.84618,68.03694 -38.024758,67.83922 -35.178581,-0.19772 -43.785995,-23.99002 -28.51412,-43.63854 15.271876,-19.64851 29.085419,-17.41155 42.124278,-9.88356 8.5839,4.95591 8.4625,13.72303 5.56066,23.20057 -2.49996,8.16496 -10.72541,10.38306 -19.037032,8.42515 -6.634404,-1.56282 -6.684792,-14.04643 -6.684792,-14.04643"
+       id="path4161"
+       sodipodi:nodetypes="czzsssc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="fill:url(#linearGradient900);fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect898"
+       width="216.37572"
+       height="174.50935"
+       x="50.562145"
+       y="71.495323"
+       ry="66.009232"
+       rx="92.476379"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="fill:url(#radialGradient76214);fill-opacity:1.0;stroke:#000000;stroke-width:4.4302;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2654"
+       width="181.15038"
+       height="146.09973"
+       x="68.17482"
+       y="85.700134"
+       ry="55.263119"
+       rx="77.421494"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="21.242741"
+       ry="14.264508" />
+    <rect
+       style="fill:#ffb400;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171-7"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="56.422012"
+       ry="14.264508" />
+    <rect
+       style="fill:#00a6ed;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171-3"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="91.601288"
+       ry="14.264508" />
+    <rect
+       style="fill:#7fb800;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171-6"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="126.78056"
+       ry="14.264508" />
+    <rect
+       style="fill:#0d2c54;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16171-5"
+       width="28.529016"
+       height="35.179272"
+       x="-56.648396"
+       y="161.95984"
+       ry="14.264508" />
+    <path
+       id="path42377"
+       style="fill:url(#linearGradient80637);fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 550.28516 323.90625 C 469.70857 323.90625 396.94849 346.92685 344.13281 384.28711 A 368.43214 335.19397 0 0 0 625.08203 502.98242 A 368.43214 335.19397 0 0 0 883.24219 406.62305 C 829.90764 356.30931 745.31319 323.90625 649.71484 323.90625 L 550.28516 323.90625 z "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       id="path39953"
+       style="fill:url(#radialGradient88602);fill-opacity:1.0;stroke:#000000;stroke-width:14.4551;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 550.28516 323.90625 C 509.29927 323.90625 470.33944 329.8683 434.99219 340.63672 A 181.09013 163.16041 0 0 0 593.54297 425.15039 A 181.09013 163.16041 0 0 0 753.95312 337.46484 C 721.59739 328.70852 686.47346 323.90625 649.71484 323.90625 L 550.28516 323.90625 z "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       id="path42682"
+       style="fill:url(#radialGradient44948);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 231.90295,131.90424 a 24.265913,24.605841 0 0 0 -24.26573,24.60566 24.265913,24.605841 0 0 0 24.26573,24.6061 24.265913,24.605841 0 0 0 17.08657,-7.15825 c 0.11446,-1.21958 0.1729,-2.45245 0.1729,-3.69645 v -30.82446 c 0,-0.075 -0.003,-0.14943 -0.004,-0.22434 a 24.265913,24.605841 0 0 0 -17.2559,-7.30826 z"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.97014;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect42825"
+       width="46.417107"
+       height="29.311869"
+       x="132.80928"
+       y="94.225342"
+       ry="12.686464"
+       transform="matrix(0.97337327,0.22922584,-0.19271317,0.98125513,0,0)"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       id="path43037"
+       style="fill:url(#linearGradient85531);fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 332.25586,692.09375 c -22.80058,0.008 -46.80461,1.84253 -71.50391,5.60352 8.54331,36.31557 9.24565,41.17954 35.45979,69.63677 67.2455,-16.12491 91.68192,18.65124 107.91166,29.80533 16.22975,11.15408 -5.24391,40.36632 -9.0277,47.36063 44.93338,20.0261 98.09517,31.59375 155.18946,31.59375 h 99.42968 c 98.46743,0 185.2671,-34.37294 238.25,-87.29102 -54.62341,-39.33084 -135.4877,-62.07557 -220.76172,-62.09375 -55.87541,0.0357 -110.52369,9.84607 -157.26757,28.23243 -1.38917,-1.47785 -2.78366,-3.01214 -4.15821,-4.68164 -30.2412,-36.73042 -94.76581,-58.19223 -173.52148,-58.16602 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="scczcsscccss"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.24243,91.981603 c -42.103334,4.33695 -47.732682,89.964677 -47.209366,91.028347 0.835426,-0.19581 12.090002,-0.58164 15.524252,-0.41192 12.946664,0.63982 13.079829,-1.12799 13.079829,-1.12799 0,0 12.069765,-18.64005 3.226575,-18.69655 -8.843205,-0.0565 -10.674626,3.49158 -10.674626,3.49158"
+       id="path55909"
+       sodipodi:nodetypes="ccscsc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.39068,126.54933 c -4.04646,-8.8452 -6.77389,-9.08933 -6.77389,-9.08933"
+       id="path56252"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 153.19801,138.94892 c 0.0751,-6.88042 8.85594,-5.93081 8.85594,-5.93081"
+       id="path63194"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_TZIKIN.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+  </g>
+</svg>
