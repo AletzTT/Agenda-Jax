@@ -16,7 +16,52 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3652">Nawal Aqabal</title>
+  <metadata
+     id="metadata3107">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Nawal Aqabal</dc:title>
+        <dc:date>21-12-2021</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>AlexTT</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Nawal</rdf:li>
+            <rdf:li>Nahual</rdf:li>
+            <rdf:li>Maya</rdf:li>
+            <rdf:li>Calendario Maya</rdf:li>
+            <rdf:li>Nawal Aqabal</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>Glifos del calendario Maya</dc:description>
+        <dc:source>https://github.com/AletzTT/Agenda-Jax</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -32,12 +77,12 @@
      inkscape:snap-page="true"
      inkscape:snap-object-midpoints="true"
      inkscape:zoom="0.64"
-     inkscape:cx="392.96875"
+     inkscape:cx="-149.21875"
      inkscape:cy="561.71875"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
@@ -49,35 +94,40 @@
        orientation="-1,0"
        id="guide846"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0,158.75"
        orientation="0,1"
        id="guide928"
        inkscape:label=""
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="131.7122,44.457535"
        orientation="1,0"
-       id="guide1822" />
+       id="guide1822"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="186.15622,44.089109"
        orientation="1,0"
-       id="guide1870" />
+       id="guide1870"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="60.067386,45.405413"
        orientation="1,0"
-       id="guide1872" />
+       id="guide1872"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="256.80652,71.495331"
        orientation="1,0"
-       id="guide1874" />
+       id="guide1874"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="159.37012,16.031474"
        orientation="0,-1"
-       id="guide2734" />
+       id="guide2734"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -312,46 +362,6 @@
        inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_KAT.png"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
-    <rect
-       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="21.242741"
-       ry="14.264508" />
-    <rect
-       style="fill:#ffb400;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171-7"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="56.422012"
-       ry="14.264508" />
-    <rect
-       style="fill:#00a6ed;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171-3"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="91.601288"
-       ry="14.264508" />
-    <rect
-       style="fill:#7fb800;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171-6"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="126.78056"
-       ry="14.264508" />
-    <rect
-       style="fill:#0d2c54;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171-5"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="161.95984"
-       ry="14.264508" />
     <path
        id="rect14435"
        style="fill:url(#radialGradient15611);stroke:#000000;stroke-width:3.96875;stroke-linecap:square;fill-opacity:1"

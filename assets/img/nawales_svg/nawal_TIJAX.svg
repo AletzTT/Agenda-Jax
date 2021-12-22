@@ -16,7 +16,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4048">Nawal Tijax</title>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -32,12 +37,12 @@
      inkscape:snap-page="true"
      inkscape:snap-object-midpoints="true"
      inkscape:zoom="0.45254834"
-     inkscape:cx="471.7728"
+     inkscape:cx="471.77281"
      inkscape:cy="580.04853"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-bbox="true"
@@ -280,46 +285,6 @@
        inkscape:export-filename="/home/alex/Documentos/Jax/Calendario/nawal_BATZ.png"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
-    <rect
-       style="fill:#f6511d;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="21.242741"
-       ry="14.264508" />
-    <rect
-       style="fill:#ffb400;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171-7"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="56.422012"
-       ry="14.264508" />
-    <rect
-       style="fill:#00a6ed;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171-3"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="91.601288"
-       ry="14.264508" />
-    <rect
-       style="fill:#7fb800;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171-6"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="126.78056"
-       ry="14.264508" />
-    <rect
-       style="fill:#0d2c54;fill-opacity:1;stroke:#000000;stroke-width:5.29167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect16171-5"
-       width="28.529016"
-       height="35.179272"
-       x="-56.648396"
-       y="161.95984"
-       ry="14.264508" />
     <path
        id="rect36215"
        style="fill:url(#radialGradient40970);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -336,4 +301,41 @@
        d="m 239.54356,199.24595 c 0,0 -22.70478,-4.00573 -29.14974,-12.33775 -3.42614,-4.4293 3.02971,-12.34495 -0.96913,-16.33849 -5.05561,-5.0489 -17.01694,2.41098 -22.0872,-2.62522 -6.40147,-6.35849 -6.79606,-18.76596 -1.69834,-26.0715 4.40407,-6.31146 18.3087,-1.6489 22.73107,-7.94929 2.80559,-3.99703 -4.10772,-10.60628 -0.84785,-14.2938 7.1888,-8.13187 33.64455,-4.42204 33.64455,-4.42204 1.23485,3.13082 5.76211,8.98547 6.67914,12.73386 3.07355,12.56321 1.7229,36.1369 0.78495,49.54176 -1.06876,15.27429 -4.66876,18.41056 -9.08745,21.76247 z"
        sodipodi:nodetypes="csssssscssc" />
   </g>
+  <metadata
+     id="metadata4046">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Nawal Tijax</dc:title>
+        <dc:date>21-12-2021</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>AlexTT</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Nawal</rdf:li>
+            <rdf:li>Nahual</rdf:li>
+            <rdf:li>Maya</rdf:li>
+            <rdf:li>Calendario Maya</rdf:li>
+            <rdf:li>Nawal Tijax</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Glifos del calendario Maya</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+         <dc:source>https://github.com/AletzTT/Agenda-Jax</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
