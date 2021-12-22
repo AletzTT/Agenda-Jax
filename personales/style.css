@@ -1,0 +1,297 @@
+@font-face {
+    font-family: Mayan;
+    src: url(../assets/fonts/Mayan.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    position: relative;
+    width: 1455px;
+    height: 1126px;
+    font-size: 32px;
+}
+
+.left-side{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    border-right: 1px black dashed;
+}
+
+.right-side{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    border-left: 1px black dashed;
+}
+
+.back{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.calendar{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+    height: auto;
+}
+
+.title{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    width: fit-content;
+    transform: translateX(-50%);
+    font-size: 2em;
+    font-family: Mayan;
+    color: black;
+}
+
+.title2{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    width: fit-content;
+    transform: translateX(-50%);
+    font-size: 2em;
+    font-family: Mayan;
+    color: black;
+}
+
+.title3{
+    position: absolute;
+    top: 72%;
+    left: 50%;
+    width: fit-content;
+    transform: translateX(-50%);
+    font-size: 1em;
+    font-family: Mayan;
+    color: black;
+}
+
+.qr-area{
+    position: absolute;
+    top: 28%;
+    right: 5%;
+    width: 20%;
+    height: 12%;
+    border: 1px dashed black;
+    border-radius: 1em;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    width: 90%;
+    align-items: center;
+}
+
+.form {
+    border: 1px solid black;
+    width: 100%;
+    height: 85%;
+    border-radius: 1em;
+    margin: auto auto;
+}
+
+.label {
+    font-size: 0.8em;
+    font-family: Mayan;
+    margin-left: 1em;
+}
+
+.name-area{
+    grid-column: 1 / 5;
+}
+
+.phone-area{
+    grid-column: 1 / 3;
+}
+
+.nawal-area{
+    grid-column: 3 / 5;
+}
+
+.adress-area, .adress-continue{
+    grid-column: 1 / 4;
+}
+
+.adress-continue{
+    grid-column: 1 / 4;
+}
+
+.mail-area{
+    grid-column: 1 / 4;
+}
+
+.false-label{
+    opacity: 0;
+}
+
+.wrapper2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    width: 90%;
+    align-items: center;
+}
+
+.adress2-area, .adress2-continue{
+    grid-column: 1/5;
+}
+
+.phone2-area{
+    grid-column: 1/4;
+}
+
+.rfc-area{
+    grid-column: 4/5;
+}
+
+.wrapper3{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    position: absolute;
+    top: 75%;
+    left: 5%;
+    width: 90%;
+    align-items: center;
+}
+
+.doctor-area{
+    grid-column: 1 / 4;
+}
+
+.doctor-phone-area{
+    grid-column: 4 / 6;
+}
+
+.parent-area{
+    grid-column: 1 / 4;
+}
+
+.parent-phone-area{
+    grid-column: 4 / 6;
+}
+
+.blood-area{
+    grid-column: 1 / 3;
+}
+
+.nss-area{
+    grid-column: 3 / 6;
+}
+
+.banner{
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40%;
+    height: auto;
+}
+
+.wrapper4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: 70%;
+}
+
+.item{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.item img{
+    margin: auto;
+    width: 70%;
+    height: auto;
+}
+
+.nawal{
+    display: block;
+    font-size: 0.8em;
+    font-family: Mayan;
+    width: 100%;
+    text-align: center;
+}
+
+.dark{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 50%;
+    background-color: black;
+    border-radius: 1em;
+    opacity: 0.6;
+}
+
+.nawales{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    height: auto;
+}
+
+.top {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    text-align: center;
+    color: white;
+    font-family: Mayan;
+    font-size: 1.2em;
+    text-shadow: 0 0 0.2em greenyellow, 1px 1px 0 black;
+}
+
+.down {
+    position: absolute;
+    bottom: 15%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    text-align: center;
+    color: white;
+    font-family: Mayan;
+    font-size: 1.2em;
+    text-shadow: 0 0 0.2em greenyellow, 1px 1px 0 black;
+}
+
+.corner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
